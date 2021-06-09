@@ -1,3 +1,3 @@
 # Project-Splitwise-Algorithm.
-# Cashflow Minimization Technique.
+## It is kind of a Cashflow Minimization Technique.
 ### Here I used Graph Data structure and C++ language.. 
